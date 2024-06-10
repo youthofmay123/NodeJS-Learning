@@ -1,0 +1,32 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youthofmay123/NodeJS-Learning.git"
+  },
+  "keywords": [
+    "f8",
+    "nodejs",
+    "huy",
+    "nguyen"
+  ],
+  "author": "Huy Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youthofmay123/NodeJS-Learning/issues"
+  },
+  "homepage": "https://github.com/youthofmay123/NodeJS-Learning#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.3"
+  }
+}
